@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-viii/icons/10021.png" > Decodificador de texto
+# Decodificador de texto
 Decodificar de texto - Desktop
 # :hammer: Funcionalidades do projeto
 
